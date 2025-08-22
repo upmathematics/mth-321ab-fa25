@@ -42,7 +42,7 @@ This course meets on Mondays, Wednesdays, and Fridays. Wednesdays and Fridays wi
 
 ### Textbook
 
-This course uses the following textbook - which is free to access - for reading and practice.
+This course uses the following textbook --which is free to access-- for reading and practice.
 
 ```{r echo=FALSE}
 refs <- bibtex::read.bib("references.bib")
@@ -63,7 +63,7 @@ refs <- bibtex::read.bib("references.bib")
 
 The syllabus, tentative topics schedule, and other information are posted on the course website.
 
-> You can access the course website at [mth-321ab-fa25](){target="_blank"}.
+> You can access the course website at [mth-321ab-fa25](https://upmathematics.github.io/mth-321ab-fa25/){target="_blank"}.
 
 Note that this website can also be viewed in Teams.
 
@@ -73,7 +73,7 @@ We will be using Teams as the main real-time communication tool for general anno
 
 I recommend that you install the Teams software on your own machine for easy and stable access, instead of accessing Teams on the browser.
 
-> The Teams for this course is [MTH-321AB-fa25](){target="_blank"}. 
+> The Teams for this course is [MTH-321AB-fa25](https://teams.microsoft.com/l/team/19%3A-M5Yb4t-TeMGFuREXsgav21brs2tcTD75nk7Er6CbeE1%40thread.tacv2/conversations?groupId=ff961eab-0329-40db-abc5-6c657835696b&tenantId=ea8f3949-231c-40b6-a33f-56873af96f87){target="_blank"}. 
 
 Note that this course website and textbook can be accessed in Teams.
 
