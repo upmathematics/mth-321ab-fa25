@@ -129,7 +129,7 @@ Mathematica software is installed on every machine in the UP computer labs.
 
 ### Description
 
-This course introduces students to the fundamental concepts of ordinary differential equations (ODEs), including 1st-order equations, 2nd-order linear equations and 1st-order linear systems. Emphasis is placed on solving initial and boundary value problems using analytical and numerical methods, analyze solution behavior near equilibriums using qualitative techniques, and apply ODEs to model physical systems. Students will develop skills in mathematical communication, teamwork, and the use of technology to support problem-solving across scientific disciplines.
+This course introduces you to the fundamental concepts of ordinary differential equations (ODEs), including 1st-order equations, 2nd-order linear equations and 1st-order linear systems. Emphasis is placed on solving initial and boundary value problems using analytical and numerical methods, analyze solution behavior near equilibriums using qualitative techniques, and apply ODEs to model physical systems. You will develop skills in mathematical communication, teamwork, and the use of technology to support problem-solving across scientific disciplines.
 
 ### Learning Outcomes
 
