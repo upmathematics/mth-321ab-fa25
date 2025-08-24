@@ -193,7 +193,7 @@ The following learning objectives are designed to build on one another, with som
 |  | F 9/19 | Principle of Superposition |
 | **5** | M 9/22 | Characteristic Polynomials for Homogeneous Linear ODEs |
 |  | W 9/24 | _Review_ |
-|  | F 9/26 | **Exam 1** |
+|  | Tu 9/23 to F 9/26 | **Exam 1** |
 | **6** | M 9/29 | Undetermined Coefficients for Nonhomogeneous Linear ODEs |
 |  | W 10/1 | Variation of Parameters for Nonhomogeneous Linear ODEs |
 |  | F 10/3 | Method of Reduction of Order |
@@ -208,7 +208,7 @@ The following learning objectives are designed to build on one another, with som
 |  | F 10/24 | Bifurcations in Two Dimensions |
 | **10** | M 10/27 | Applications of 2nd-Order ODEs and System of 1st-Order ODEs |
 |  | W 10/29 | _Review_ |
-|  | F 10/31 | **Exam 2** |
+|  | Tu 10/28 to F 10/31 | **Exam 2** |
 | **11** | M 11/3 | Distinct and Repeated Eigenvalues |
 |  | W 11/5 | Complex Eigenvalues |
 |  | F 11/7 | Variation of Parameters for Nonhomogeneous Linear Systems |
@@ -219,13 +219,12 @@ The following learning objectives are designed to build on one another, with som
 |  | W 11/19 | Linear System of ODEs in Higher Dimensions |
 |  | F 11/21 | Series Solutions |
 | **14** | M 11/24 | _Review_ |
-|  | W 11/26 | **Exam 3** |
+|  | M 11/24 to W 11/26 | **Exam 3** |
 |  | F 11/28 | _Thanksgiving Vacation_ |
 | **15** | M 12/1 | Non-Linear Dynamics |
 |  | W 12/3 | Runge-Kutta Method |
 |  | F 12/5 | _Review_ |
-| **16** | Tu 12/9 | **Final Exam Section A (1:30 PM - 3:30 PM)** |
-|  | Th 12/11 | **Final Exam Section B (10:30 AM - 12:30 PM)** |
+| **16** | M 12/9 to Th 12/11 | **Final Exam** |
 
 <br>
 
@@ -453,10 +452,9 @@ Here are the rules of make-up exams:
 
 The final exam includes the written and oral parts. This exam will be cumulative. Makeup exams are not allowed during finals week. The same written and oral exam part rules apply for the final exam, except that retakes are no longer allowed.
 
-> The final exam is on:
+> The final exam days are:
 >
->   * **Section A:** Tu December 9, 1:30 PM - 3:30 PM, Franz Hall 205
->   * **Section B:** Th December 11, 10:30 AM - 12:30 PM, Franz Hall 205
+>   * Monday 12/8 to Thursday 12/11
 
 <br>
 
