@@ -33,7 +33,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Lectures and Discussions
 
-This course meets on Mondays, Wednesdays, and Fridays. Wednesdays and Fridays will focus on discussing topics. Homework will be scheduled for alternating Mondays. The typical class routine will include pre-reading assignments before each class, followed by a short lecture or demonstration, worksheet activities, group presentations, and discussions.
+This course meets on Mondays, Wednesdays, and Fridays. Homework will be scheduled for alternating Mondays. The typical class routine will include pre-reading assignments before each class, followed by a short lecture or demonstration, worksheet activities, group presentations, and discussions.
 
 > The course schedule and location is:
 >
@@ -141,23 +141,37 @@ Upon completion of the course, you will be able to:
 * Solve 1st- and 2nd-order linear ODEs which includes initial and boundary value problems.
 * Solve 1st-order linear system of ODEs which includes initial value problems.
 * Use basic numerical methods to solve ODEs.
-* Apply ODEs to model physical phenomena.
+* Apply ODEs to model physical system.
 * Write clear and concise mathematical solutions to ODE problems.
 * Communicate effectively about ODEs with other students, instructors, and professionals.
 * Work independently and as part of a team to solve ODE problems.
+* Effectively use technology to support the analysis and solution of ODEs.
 
 ### Learning Objectives
 
 The following learning objectives are designed to build on one another, with some overlap. The goal is to help you achieve proficiency in these areas.
-  
-* Define ODEs and their basic structure, such as order, linearity, homogeneity, and autonomy.
-* Define a 1st-order system of ODEs and their basic structure, such as linearity, homogeneity, and autonomy.
-* Use direction fields, phase portraits, and linearization to analyze the qualitative behavior of solutions around equilibriums of linear and non-linear ODEs.
-* Use separation of variables, integrating factors, and Laplace transforms to solve 1st-order linear ODEs.
-* Use undetermined coefficients, variation of parameters, and Laplace transforms to solve 2nd-order linear ODEs.
-* Use algebraic and eigentheory methods to solve 1st-order linear system of ODEs.
-* Use Euler's method and Runge-Kutta method to numerically solve ODEs.
-* Apply ODEs to model physical phenomena, such as population dynamics, fluid mechanics, and harmonic oscillators.
+
+| **Topic Category** | **Learning Objectives** |
+|:---|:---------|
+| **ODE Structure** | Define an ODE and distinguish it from partial differential equations (PDE). |
+|  | Classify and evaluate ODEs and first-order systems by their structural features in terms of order, linearity, homogeneity, and autonomy. |
+|  | Interpret the implications of linearity, homogeneity, and autonomy on the solvability and qualitative dynamics of ODEs and systems. |
+|  | Transform an ODE into an equivalent first-order system and analyze its structure. |
+| **Qualitative Analysis of ODEs** | Create and interpret slope/direction fields of 1st- and 2nd-order ODEs, and 1st-order systems. |
+|  | Generate and evaluate phase diagrams/portraits of 1st-order systems. |
+|  | Perform linearization to analyze the solution behavior around equilibriums of linear and non-linear systems. |
+| **Analytically Solve ODEs** | Use separation of variables, integrating factors, and Laplace transforms to solve 1st-order linear ODEs. |
+|  | Use characteristic polynomials to solve homogeneous 2nd-order linear ODEs. |
+|  | Use undetermined coefficients, variation of parameters, and Laplace transforms to solve non-homogeneous 2nd-order linear ODEs.
+|  | Use eigentheory to solve homogeneous 1st-order linear system of ODEs. |
+|  | Use variation of parameters to solve non-homogeneous 1st-order linear system of ODEs. |
+| **Numerically Solve ODEs** | Use Euler's method to solve 1st-order ODEs. |
+|  | Use Runge-Kutta method to solve 1st-order system of ODEs. |
+| **Model Physical Systems** | Use 1st-order ODEs to model population growth/decay, temperature change, and elementary mechanics. |
+|  | Use 2nd-order ODEs to model spring-mass systems, pendulums, and RLC circuits. |
+|  | Use 1st-order system of ODEs to model population dynamics and fluid mechanics. |
+| **Use Technology** | Understand the basics of using Python for ODEs. |
+|  | Use Python to analyze, visualize, and solve ODEs. |
 
 <br>
 
@@ -183,7 +197,7 @@ The following learning objectives are designed to build on one another, with som
 | **6** | M 9/29 | Undetermined Coefficients for Nonhomogeneous Linear ODEs |
 |  | W 10/1 | Variation of Parameters for Nonhomogeneous Linear ODEs |
 |  | F 10/3 | Method of Reduction of Order |
-| **7** | M 10/6 | System of 1st-Order ODEs, Equilibrium, \& Existence and Uniqueness   |
+| **7** | M 10/6 | System of 1st-Order ODEs, Equilibrium, \& Existence and Uniqueness |
 |  | W 10/8 | Direction Fields and Phase Portraits |
 |  | F 10/10 | Analyzing Equilibriums of a System of 1st-Order ODEs |
 | **8** | M 10/13 | _Fall Vacation_ |
