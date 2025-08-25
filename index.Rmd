@@ -21,15 +21,36 @@ nocite: '@*'
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+:::: {style="display: flex;"}
+:::: {.column width=39%}
+```{r systems-animation-1, echo=FALSE, fig.align='center', out.width = '100%', fig.show='hold', fig.cap='Pendulum'}
+knitr::include_graphics(c("figures/pendulum.gif"))
+```
+:::
+:::: {.column width=59%}
+```{r systems-animation-2, echo=FALSE, fig.align='center', out.width = '100%', fig.show='hold', fig.cap='Horizontal Spring-Mass'}
+knitr::include_graphics(c("figures/horizontal-spring-mass.gif"))
+```
+```{r systems-animation-3, echo=FALSE, fig.align='center', out.width = '100%', fig.show='hold', fig.cap='Bouncing Ball'}
+knitr::include_graphics(c("figures/bouncing-ball.gif"))
+```
+::::
+::::
+
+An Ordinary differential equation is a core mathematical framework for describing systems that change over time. They transform physical laws into predictive models that show how things evolve.
+
 # Syllabus
 
 ## **About the Class**
+
+### Description
+
+This course introduces the fundamental concepts of ordinary differential equations (ODEs), including 1st-order equations, 2nd-order linear equations, and 1st-order linear systems. Emphasis is placed on solving initial and boundary value problems using both analytical and numerical methods. The behavior of solutions near equilibrium points is examined through qualitative techniques. Applications of ODEs in modeling physical systems are explored throughout the course.
 
 ### Instructor Information
 
 > * Instructor: Dr. Alex John Quijano
 > * Office: Buckley Center 279
-> * Email: quijano@up.edu
 
 ### Lectures and Discussions
 
@@ -126,10 +147,6 @@ Mathematica software is installed on every machine in the UP computer labs.
 <br>
 
 ## **Learning Goals**
-
-### Description
-
-This course introduces the fundamental concepts of ordinary differential equations (ODEs), including 1st-order equations, 2nd-order linear equations, and 1st-order linear systems. Emphasis is placed on solving initial and boundary value problems using both analytical and numerical methods. The behavior of solutions near equilibrium points is examined through qualitative techniques. Applications of ODEs in modeling physical systems are explored throughout the course.
 
 ### Learning Outcomes
 
