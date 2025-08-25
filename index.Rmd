@@ -37,7 +37,7 @@ knitr::include_graphics(c("figures/bouncing-ball.gif"))
 ::::
 ::::
 
-An Ordinary differential equation is a core mathematical framework for describing systems that change over time. They transform physical laws into predictive models that show how things evolve.
+An ordinary differential equation is a core mathematical framework for describing systems that change over time. They transform physical laws into predictive models that show how things evolve.
 
 # Syllabus
 
