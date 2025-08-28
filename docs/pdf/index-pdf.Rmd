@@ -1,43 +1,31 @@
 ---
-title: "MTH 321: Ordinary Differential Equation"
+title: | 
+  \vspace{-1in}
+  | MTH 321: Ordinary Differential Equation
+  | Syllabus
 subtitle: | 
-  | Section A & B
-  | Fall 2025
-  | Department of Mathematics
-  | University of Portland
-author: | 
-  | Dr. [Alex John Quijano](https://www.alexjohnquijano.com){target='_blank'} [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/){target='_blank'}
-  | Department of Mathematics
-  | University of Portland
-  | 
-  | Made with [R](https://cran.r-project.org/){target='_blank'} and [RMarkdown](https://rmarkdown.rstudio.com/){target='_blank'}
-  | Last updated on `r format(Sys.Date(), format='%B %d, %Y')`
-bibliography: references.bib
-csl: mbe.csl
-nocite: '@*'
+  | Section A \& B | Fall 2025 | Department of Mathematics | University of Portland
+header-includes: |
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead[RO,R]{MTH 321AB ODE - Syllabus}
+  \fancyfoot[CO,C]{}
+  \fancyfoot[R]{\thepage}
+  \usepackage{float}
+output:
+  bookdown::pdf_document2:
+    toc: no
+    number_section: no
+urlcolor: blue
+bibliography: ../references.bib
+csl: ../mbe.csl
+geometry: "left=0.50in,right=0.50in,top=0.75in,bottom=0.75in"
+fontsize: 12pt
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-:::: {style="display: flex;"}
-:::: {.column width=39%}
-```{r systems-animation-1, echo=FALSE, fig.align='center', out.width = '100%', fig.show='hold', fig.cap='Pendulum'}
-knitr::include_graphics(c("figures/pendulum.gif"))
-```
-:::
-:::: {.column width=59%}
-```{r systems-animation-2, echo=FALSE, fig.align='center', out.width = '100%', fig.show='hold', fig.cap='Horizontal Spring-Mass'}
-knitr::include_graphics(c("figures/horizontal-spring-mass.gif"))
-```
-```{r systems-animation-3, echo=FALSE, fig.align='center', out.width = '100%', fig.show='hold', fig.cap='Bouncing Ball'}
-knitr::include_graphics(c("figures/bouncing-ball.gif"))
-```
-::::
-::::
-
-An ordinary differential equation is a core mathematical framework for describing systems that change over time. They transform physical laws into predictive models that show how things evolve.
 
 # Syllabus
 
@@ -66,7 +54,7 @@ This course meets on Mondays, Wednesdays, and Fridays. Homework will be schedule
 This course uses the following textbook --which is free to access-- for reading and practice.
 
 ```{r echo=FALSE}
-refs <- bibtex::read.bib("references.bib")
+refs <- bibtex::read.bib("../references.bib")
 ```
 
 >  * `r capture.output(print(refs["trench2013elementary"]))`
@@ -198,24 +186,24 @@ The following learning objectives are designed to build on one another, with som
 |:--:|:--:|:---------------|
 | **1** | M 8/25 | Orientation and Modeling Physical Systems |
 |  | W 8/27 | Classification of Equations \& Principles of Solutions |
-|  | F 8/29 | 1st-Order ODEs \& Equilibriums |
-| **2** | M 9/1 | Existence and Uniqueness \& Slope Fields and Phase Diagrams |
-|  | W 9/3 | Analyzing Equilibriums of 1st-Order ODEs |
+|  | F 8/29 | 1st-Order ODEs, Equilibrium, \& Existence and Uniqueness |
+| **2** | M 9/1 | Slope Fields and Phase Diagrams |
+|  | W 9/3 | Analyzing Equilibriums |
 |  | F 9/5 | Bifurcations in One Dimension |
 | **3** | M 9/8 | Applications of 1st-Order ODEs |
 |  | W 9/10 | Separation of Variables |
 |  | F 9/12 | Integrating Factors |
 | **4** | M 9/15 | Euler's Method |
-|  | W 9/17 | 2nd-Order ODEs \& Equilibriums  |
-|  | F 9/19 | Existence and Uniqueness \& Principle of Superposition |
+|  | W 9/17 | 2nd-Order ODEs, Equilibrium, \& Existence and Uniqueness |
+|  | F 9/19 | Principle of Superposition |
 | **5** | M 9/22 | Characteristic Polynomials for Homogeneous Linear ODEs |
 |  | W 9/24 | _Review_ |
 |  | Tu 9/23 to F 9/26 | **Exam 1** |
 | **6** | M 9/29 | Undetermined Coefficients for Nonhomogeneous Linear ODEs |
 |  | W 10/1 | Variation of Parameters for Nonhomogeneous Linear ODEs |
 |  | F 10/3 | Method of Reduction of Order |
-| **7** | M 10/6 | System of 1st-Order ODEs \& Equilibrium |
-|  | W 10/8 | Existence and Uniqueness \& Direction Fields and Phase Portraits |
+| **7** | M 10/6 | System of 1st-Order ODEs, Equilibrium, \& Existence and Uniqueness |
+|  | W 10/8 | Direction Fields and Phase Portraits |
 |  | F 10/10 | Analyzing Equilibriums of a System of 1st-Order ODEs |
 | **8** | M 10/13 | _Fall Vacation_ |
 |  | W 10/15 | _Fall Vacation_ |
@@ -232,7 +220,7 @@ The following learning objectives are designed to build on one another, with som
 | **12** | M 11/10 | Laplace Transforms |
 |  | W 11/12 | Inverse Laplace Transforms |
 |  | F 11/14 | Linear ODE solutions using Laplace Transforms |
-| **13** | M 11/17 | Higher-Order ODEs |
+| **13** | M 11/17 | Higher-Order ODEs \& Existence and Uniqueness |
 |  | W 11/19 | Linear System of ODEs in Higher Dimensions |
 |  | F 11/21 | Series Solutions |
 | **14** | M 11/24 | _Review_ |
@@ -554,53 +542,3 @@ Anyone can experience problems with their mental health that interfere with acad
 The University of Portland is committed to fostering a safe and respectful community free from all forms of violence. Violence of any kind, and in particular acts of power-based personal violence, are inconsistent with our mission. Together, all UP community members must take a stand against violence. Learn more about what interpersonal violence looks like, campus and community resources, UP’s prevention strategy, and what we as individuals can do to assist on the Green Dot website, [www.up.edu/greendot](https://www.up.edu/greendot){target="_blank"}. Further information and reporting options may be found on the Title IX website, [www.up.edu/titleix](https://www.up.edu/titleix){target="_blank"}.
 
 <br>
-
-# Materials
-
-> You are required to read the materials, and are strongly encouraged to actively participate in class discussions and complete the assignments efficiently to deepen your understanding and succeed in the course.
-
-## Class Readings
-
-The "Read" column in the table below contains page numbers (Pg.) or chapters (ch.) on which it refers to a label in the Books \& Online Resources List. For example "Ch. 1.1-1.2 @trench2013elementary" refers to chapters 1.1 and 1.2 of the textbook titled *Elementary Differential Equations*.
-
-| **Topic** | **Read** |
-|:---|:---|
-| Orientation and Modeling Physical Systems | Syllabus |
-| Classification of Equations \& Principles of Solutions | Ch. 1.1-1.2 \& Ch. 2.1 @trench2013elementary |
-| 1st-Order ODEs \& Equilibriums | Ch. 2.3 @trench2013elementary |
-| Existence and Uniqueness \& Slope Fields and Phase Diagrams | Ch. 1.3 @trench2013elementary |
-| Analyzing Equilibriums | - |
-| Bifurcations in One Dimension | - |
-| Applications of 1st-Order ODEs | Ch. 4.1-4.3 @trench2013elementary |
-| Separation of Variables | Ch. 2.2 @trench2013elementary |
-| Integrating Factors | Ch. 2.6 @trench2013elementary |
-| Euler's Method | Ch. 3.1 @trench2013elementary |
-| 2nd-Order ODEs \& Equilibriums | - |
-| Existence and Uniqueness \& Principle of Superposition | - |
-| Characteristic Polynomials for Homogeneous Linear ODEs | Ch. 5.1-5.3 @trench2013elementary |
-| Undetermined Coefficients for Nonhomogeneous Linear ODEs | Ch. 5.4-5.5 @trench2013elementary |
-| Variation of Parameters for Nonhomogeneous Linear ODEs | Ch. 5.7 |
-| Method of Reduction of Order | Ch. 5.6 @trench2013elementary |
-| System of 1st-Order ODEs \& Equilibriums | Ch. 10.1 @trench2013elementary |
-| Existence and Uniqueness \& Direction Fields and Phase Portraits | Ch. 10.2 @trench2013elementary |
-| Analyzing Equilibriums of a System of 1st-Order ODEs | Ch. 10.3 @trench2013elementary |
-| Eigenvalues and Eigenvectors for Homogeneous Linear Systems | - |
-| Stability Analysis by Linearization | - |
-| Bifurcations in Two Dimensions | - |
-| Applications of 2nd-Order ODEs and System of 1st-Order ODEs | Ch. 6.1-6.3 @trench2013elementary |
-| Distinct and Repeated Eigenvalues | Ch. 10.4-10.5 @trench2013elementary |
-| Complex Eigenvalues | Ch. 10.6 @trench2013elementary |
-| Variation of Parameters for Nonhomogeneous Linear Systems | Ch. 10.7 @trench2013elementary |
-| Laplace Transforms | Ch 8.1 @trench2013elementary |
-| Inverse Laplace Transforms | Ch. 8.2 \& Ch. 8.6 @trench2013elementary |
-| Linear ODE solutions using Laplace Transforms | Ch. 8.3-8.5 @trench2013elementary |
-| Higher-Order ODEs | Ch. 9.1 @trench2013elementary |
-| Linear System of ODEs in Higher Dimensions | Ch. 9.2 @trench2013elementary |
-| Series Solutions | Ch. 7.1-7.3 @trench2013elementary |
-| Non-Linear Dynamics | - |
-| Runge-Kutta Method | Ch. 3.2-3.3 @trench2013elementary |
-
-## Books \& Online Resources Lists
-
-::: {#refs}
-:::
