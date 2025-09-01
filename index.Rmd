@@ -566,9 +566,9 @@ The "Read" column in the table below contains page numbers (Pg.) or chapters (ch
 | **Topic** | **Read** |
 |:---|:---|
 | Orientation and Modeling Physical Systems | Syllabus |
-| Classification of Equations \& Principles of Solutions | Ch. 1.1-1.2 \& Ch. 2.1 @trench2013elementary |
-| 1st-Order ODEs \& Equilibriums | Ch. 2.3 @trench2013elementary |
-| Existence and Uniqueness \& Slope Fields and Phase Diagrams | Ch. 1.3 @trench2013elementary |
+| Classification of Equations \& Principles of Solutions | Ch. 1.1-1.2 @trench2013elementary |
+| 1st-Order ODEs \& Equilibriums | Ch. 2.1 @trench2013elementary |
+| Existence and Uniqueness \& Slope Fields and Phase Diagrams | Ch. 1.3 \& Ch. 2.3 @trench2013elementary |
 | Analyzing Equilibriums | - |
 | Bifurcations in One Dimension | - |
 | Applications of 1st-Order ODEs | Ch. 4.1-4.3 @trench2013elementary |

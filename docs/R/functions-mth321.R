@@ -1,4 +1,5 @@
 library(tidyverse)
+library(gridExtra)
 
 # vector/slope field for one ode
 SlopeField <- function(FUN,params=c(),
