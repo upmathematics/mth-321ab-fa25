@@ -196,11 +196,11 @@ The following learning objectives are designed to build on one another, with som
 |  | W 9/10 | Separation of Variables |
 |  | F 9/12 | Integrating Factors |
 | **4** | M 9/15 | Euler's Method |
-|  | W 9/17 | 2nd-Order ODEs \& Equilibriums  |
-|  | F 9/19 | Existence and Uniqueness \& Principle of Superposition |
-| **5** | M 9/22 | Characteristic Polynomials for Homogeneous Linear ODEs |
-|  | W 9/24 | _Review_ |
-|  | Tu 9/23 to F 9/26 | **Exam 1** |
+|  | W 9/17 | _Review_ |
+|  | F 9/19 | 2nd-Order ODEs \& Equilibriums |
+| **5** | M 9/22 | Existence and Uniqueness \& Principle of Superposition |
+|  | W 9/24 | Characteristic Polynomials for Homogeneous Linear ODEs |
+|  | Tu 9/25 to F 9/26 | **Exam 1** (No Class Session) |
 | **6** | M 9/29 | Undetermined Coefficients for Nonhomogeneous Linear ODEs |
 |  | W 10/1 | Variation of Parameters for Nonhomogeneous Linear ODEs |
 |  | F 10/3 | Method of Reduction of Order |
@@ -210,23 +210,23 @@ The following learning objectives are designed to build on one another, with som
 | **8** | M 10/13 | _Fall Vacation_ |
 |  | W 10/15 | _Fall Vacation_ |
 |  | F 10/17 | _Fall Vacation_ |
-| **9** | M 10/20 | Eigenvalues and Eigenvectors for Homogeneous Linear Systems |
-|  | W 10/22 | Stability Analysis by Linearization |
-|  | F 10/24 | Bifurcations in Two Dimensions |
-| **10** | M 10/27 | Applications of 2nd-Order ODEs and System of 1st-Order ODEs |
-|  | W 10/29 | _Review_ |
-|  | Tu 10/28 to F 10/31 | **Exam 2** |
+| **9** | M 10/20 | _Review_ |
+|  | W 10/22 | Eigenvalues and Eigenvectors for Homogeneous Linear Systems |
+|  | F 10/24 | Stability Analysis by Linearization |
+| **10** | M 10/27 | Bifurcations in Two Dimensions |
+|  | W 10/29 | Applications of 2nd-Order ODEs and System of 1st-Order ODEs |
+|  | Tu 10/28 to F 10/31 | **Exam 2** (No Class Session) |
 | **11** | M 11/3 | Distinct and Repeated Eigenvalues |
 |  | W 11/5 | Complex Eigenvalues |
 |  | F 11/7 | Variation of Parameters for Nonhomogeneous Linear Systems |
-| **12** | M 11/10 | Laplace Transforms |
-|  | W 11/12 | Inverse Laplace Transforms |
-|  | F 11/14 | Linear ODE solutions using Laplace Transforms |
-| **13** | M 11/17 | Higher-Order ODEs |
-|  | W 11/19 | Linear System of ODEs in Higher Dimensions |
-|  | F 11/21 | Series Solutions |
-| **14** | M 11/24 | _Review_ |
-|  | M 11/24 to W 11/26 | **Exam 3** |
+| **12** | M 11/10 | Higher-Order ODEs |
+|  | W 11/12 | Linear System of ODEs in Higher Dimensions |
+|  | F 11/14 | _Review_  |
+| **13** | M 11/17 | Laplace Transforms |
+|  | W 11/19 | Inverse Laplace Transforms |
+|  | F 11/21 | Linear ODE solutions using Laplace Transforms |
+| **14** | M 11/24 | Series Solutions |
+|  | M 11/24 to W 11/26 | **Exam 3** (No Class Session) |
 |  | F 11/28 | _Thanksgiving Vacation_ |
 | **15** | M 12/1 | Non-Linear Dynamics |
 |  | W 12/3 | Runge-Kutta Method |
@@ -586,11 +586,11 @@ The "Read" column in the table below contains page numbers (Pg.) or chapters (ch
 | Distinct and Repeated Eigenvalues | Ch. 10.4-10.5 @trench2013elementary |
 | Complex Eigenvalues | Ch. 10.6 @trench2013elementary |
 | Variation of Parameters for Nonhomogeneous Linear Systems | Ch. 10.7 @trench2013elementary |
+| Higher-Order ODEs | Ch. 9.1 @trench2013elementary |
+| Linear System of ODEs in Higher Dimensions | Ch. 9.2 @trench2013elementary |
 | Laplace Transforms | Ch 8.1 @trench2013elementary |
 | Inverse Laplace Transforms | Ch. 8.2 \& Ch. 8.6 @trench2013elementary |
 | Linear ODE solutions using Laplace Transforms | Ch. 8.3-8.5 @trench2013elementary |
-| Higher-Order ODEs | Ch. 9.1 @trench2013elementary |
-| Linear System of ODEs in Higher Dimensions | Ch. 9.2 @trench2013elementary |
 | Series Solutions | Ch. 7.1-7.3 @trench2013elementary |
 | Non-Linear Dynamics | - |
 | Runge-Kutta Method | Ch. 3.2-3.3 @trench2013elementary |
