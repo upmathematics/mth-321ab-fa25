@@ -197,7 +197,7 @@ The following learning objectives are designed to build on one another, with som
 |  | F 9/12 | Integrating Factors |
 | **4** | M 9/15 | Euler's Method |
 |  | W 9/17 | _Review_ |
-|  | F 9/19 | 2nd-Order ODEs \& Equilibriums |
+|  | F 9/19 | _2nd-Order ODEs \& Equilibriums |
 | **5** | M 9/22 | Existence and Uniqueness \& Principle of Superposition |
 |  | W 9/24 | Characteristic Polynomials for Homogeneous Linear ODEs |
 |  | Tu 9/24 to F 9/26 | **Exam 1** (No Class Session) |
@@ -566,7 +566,7 @@ The "Read" column in the table below contains page numbers (Pg.) or chapters (ch
 | [Existence and Uniqueness \& Slope Fields and Phase Diagrams](lecture-notes/existence-and-uniqueness-and-slope-fields-and-phase-diagrams.pdf) | Ch. 1.3 \& Ch. 2.3 @trench2013elementary |
 | [Analyzing Equilibriums of 1st-Order ODEs](lecture-notes/analyzing-equilibriums-of-1st-order-odes.pdf) | - |
 | [Bifurcations in One Dimension](lecture-notes/bifurcations-in-one-dimension.pdf) | - |
-| Applications of 1st-Order ODEs | Ch. 4.1-4.3 @trench2013elementary |
+| [Applications of 1st-Order ODEs](lecture-notes/applications-of-1st-order-odes.pdf) | Ch. 4.1-4.3 @trench2013elementary |
 | [Separation of Variables](lecture-notes/separation-of-variables.pdf) | Ch. 2.2 @trench2013elementary |
 | [Integrating Factors](lecture-notes/integrating-factors.pdf) | Ch. 2.6 @trench2013elementary |
 | [Euler's Method](lecture-notes/eulers-method.pdf) | Ch. 3.1 @trench2013elementary |
