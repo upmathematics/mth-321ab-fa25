@@ -571,10 +571,10 @@ The "Read" column in the table below contains page numbers (Pg.) or chapters (ch
 | [Integrating Factors](lecture-notes/integrating-factors.pdf) | Ch. 2.6 @trench2013elementary |
 | [Euler's Method](lecture-notes/eulers-method.pdf) | Ch. 3.1 @trench2013elementary |
 | [2nd-Order ODEs \& Equilibriums](lecture-notes/2nd-order-odes-and-equilibriums.pdf) | - |
-| [Existence and Uniqueness \& Principle of Superposition](existence-and-uniqueness-and-principle-of-superposition.pdf) | - |
-| Characteristic Polynomials for Homogeneous Linear ODEs | Ch. 5.1-5.3 @trench2013elementary |
-| Undetermined Coefficients for Nonhomogeneous Linear ODEs | Ch. 5.4-5.5 @trench2013elementary |
-| Variation of Parameters for Nonhomogeneous Linear ODEs | Ch. 5.7 |
+| [Existence and Uniqueness \& Principle of Superposition](lecture-notes/existence-and-uniqueness-and-principle-of-superposition.pdf) | - |
+| [Characteristic Polynomials for Homogeneous Linear ODEs](lecture-notes/characteristic-polynomials-for-homogeneous-linear-odes.pdf) | Ch. 5.1-5.3 @trench2013elementary |
+| [Undetermined Coefficients for Nonhomogeneous Linear ODEs](lecture-notes/undetermined-coefficients-for-nonhomogeneous-linear-odes.pdf) | Ch. 5.4-5.5 @trench2013elementary |
+| [Variation of Parameters for Nonhomogeneous Linear ODEs](lecture-notes/variation-of-parameters-for-nonhomogeneous-linear-odes.pdf) | Ch. 5.7 |
 | Method of Reduction of Order | Ch. 5.6 @trench2013elementary |
 | System of 1st-Order ODEs \& Equilibriums | Ch. 10.1 @trench2013elementary |
 | Existence and Uniqueness \& Direction Fields and Phase Portraits | Ch. 10.2 @trench2013elementary |

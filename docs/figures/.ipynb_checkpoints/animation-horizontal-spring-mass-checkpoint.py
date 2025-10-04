@@ -7,7 +7,7 @@ from scipy.integrate import solve_ivp
 # Physical parameters
 m = 1       # mass (kg)
 k = 4       # spring constant (N/m)
-c = 0.5       # damping coefficient (Ns/m)
+c = 0       # damping coefficient (Ns/m)
 
 # Initial conditions: x1 = position, x2 = velocity
 x0 = [1.0, 0.0]  # initial displacement and velocity
@@ -77,4 +77,4 @@ def update(frame):
 ani = FuncAnimation(fig, update, frames=len(positions), init_func=init, blit=True)
 
 # Save as GIF
-ani.save('horizontal-spring-mass.gif', writer=PillowWriter(fps=30), dpi=150)
+ani.save('horizontal-spring-mass/'+'hsm-undamped-c0-k4.gif', writer=PillowWriter(fps=30), dpi=150)
