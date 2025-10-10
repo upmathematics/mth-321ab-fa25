@@ -1,5 +1,6 @@
 library(tidyverse)
 library(gridExtra)
+library(latex2exp)
 
 # vector/slope field for one ode
 SlopeField <- function(FUN,params=c(),
@@ -45,7 +46,9 @@ SlopeField <- function(FUN,params=c(),
            ))
   
   # draw slope field
-  ggplot(data=vector_points)+
+  ggplot(data=vector_points) +
+    geom_hline(yintercept=0, color="darkgray") + 
+    geom_vline(xintercept=0, color="darkgray") +
     geom_segment(aes(x=t_0, y=y_0, xend=t_1, yend=y_1),
                  color=col,
                  arrow = arrow(length = unit(scale*radius, "inches"))) + 
@@ -98,7 +101,9 @@ PhasePortrait <- function(FUN,params=c(),
            ))
   
   # draw slope field
-  ggplot(data=ode_points)+
+  ggplot(data=ode_points) +
+    geom_hline(yintercept=0, color="darkgray") + 
+    geom_vline(xintercept=0, color="darkgray") +
     geom_segment(aes(x=x_0, y=y_0, xend=x_1, yend=y_1),
                  color=col,
                  arrow = arrow(length = unit(scale*radius, "inches"))) + 

@@ -575,7 +575,7 @@ The "Read" column in the table below contains page numbers (Pg.) or chapters (ch
 | [Characteristic Polynomials for Homogeneous Linear ODEs](lecture-notes/characteristic-polynomials-for-homogeneous-linear-odes.pdf) | Ch. 5.1-5.3 @trench2013elementary |
 | [Undetermined Coefficients for Nonhomogeneous Linear ODEs](lecture-notes/undetermined-coefficients-for-nonhomogeneous-linear-odes.pdf) | Ch. 5.4-5.5 @trench2013elementary |
 | [Variation of Parameters for Nonhomogeneous Linear ODEs](lecture-notes/variation-of-parameters-for-nonhomogeneous-linear-odes.pdf) | Ch. 5.7 |
-| Method of Reduction of Order | Ch. 5.6 @trench2013elementary |
+| [Method of Reduction of Order](lecture-notes/method-of-reduction-of-order.pdf) | Ch. 5.6 @trench2013elementary |
 | System of 1st-Order ODEs \& Equilibriums | Ch. 10.1 @trench2013elementary |
 | Existence and Uniqueness \& Direction Fields and Phase Portraits | Ch. 10.2 @trench2013elementary |
 | Analyzing Equilibriums of a System of 1st-Order ODEs | Ch. 10.3 @trench2013elementary |
