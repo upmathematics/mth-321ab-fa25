@@ -210,10 +210,10 @@ The following learning objectives are designed to build on one another, with som
 | **8** | M 10/13 | _Fall Vacation_ |
 |  | W 10/15 | _Fall Vacation_ |
 |  | F 10/17 | _Fall Vacation_ |
-| **9** | M 10/20 | _Review_ |
-|  | W 10/22 | Eigenvalues and Eigenvectors for Homogeneous Linear Systems |
-|  | F 10/24 | Stability Analysis by Linearization |
-| **10** | M 10/27 | Bifurcations in Two Dimensions |
+| **9** | M 10/20 | _Cancelled_ |
+|  | W 10/22 | _Review_ |
+|  | F 10/24 | Eigenvalues and Eigenvectors for Homogeneous Linear Systems |
+| **10** | M 10/27 | Stability Analysis by Linearization & Bifurcations in Two Dimensions |
 |  | W 10/29 | Applications of 2nd-Order ODEs and System of 1st-Order ODEs |
 |  | Tu 10/28 to F 10/31 | **Exam 2** (No Class Session on F 10/31) |
 | **11** | M 11/3 | Distinct and Repeated Eigenvalues |
