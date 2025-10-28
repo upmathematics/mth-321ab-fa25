@@ -206,15 +206,15 @@ The following learning objectives are designed to build on one another, with som
 |  | F 10/3 | Method of Reduction of Order |
 | **7** | M 10/6 | System of 1st-Order ODEs \& Equilibrium |
 |  | W 10/8 | Existence and Uniqueness \& Direction Fields and Phase Portraits |
-|  | F 10/10 | Analyzing Equilibriums of a System of 1st-Order ODEs |
+|  | F 10/10 | Analyzing Equilibriums of a System of 1st-Order ODEs |  
 | **8** | M 10/13 | _Fall Vacation_ |
 |  | W 10/15 | _Fall Vacation_ |
 |  | F 10/17 | _Fall Vacation_ |
 | **9** | M 10/20 | _Cancelled_ |
 |  | W 10/22 | _Review_ |
 |  | F 10/24 | Eigenvalues and Eigenvectors for Homogeneous Linear Systems |
-| **10** | M 10/27 | Stability Analysis by Linearization & Bifurcations in Two Dimensions |
-|  | W 10/29 | Applications of 2nd-Order ODEs and System of 1st-Order ODEs |
+| **10** | M 10/27 | Stability Analysis by Linearization |
+|  | W 10/29 | Bifurcations in Two Dimensions & Applications of 2nd-Order ODEs and System of 1st-Order ODEs |
 |  | Tu 10/28 to F 10/31 | **Exam 2** (No Class Session on F 10/31) |
 | **11** | M 11/3 | Distinct and Repeated Eigenvalues |
 |  | W 11/5 | Complex Eigenvalues |
@@ -576,9 +576,9 @@ The "Read" column in the table below contains page numbers (Pg.) or chapters (ch
 | [Undetermined Coefficients for Nonhomogeneous Linear ODEs](lecture-notes/undetermined-coefficients-for-nonhomogeneous-linear-odes.pdf) | Ch. 5.4-5.5 @trench2013elementary |
 | [Variation of Parameters for Nonhomogeneous Linear ODEs](lecture-notes/variation-of-parameters-for-nonhomogeneous-linear-odes.pdf) | Ch. 5.7 |
 | [Method of Reduction of Order](lecture-notes/method-of-reduction-of-order.pdf) | Ch. 5.6 @trench2013elementary |
-| System of 1st-Order ODEs \& Equilibriums | Ch. 10.1 @trench2013elementary |
-| Existence and Uniqueness \& Direction Fields and Phase Portraits | Ch. 10.2 @trench2013elementary |
-| Analyzing Equilibriums of a System of 1st-Order ODEs | Ch. 10.3 @trench2013elementary |
+| [System of 1st-Order ODEs \& Equilibriums](lecture-notes/system-of-1st-order-odes-and-equilibriums.pdf) | Ch. 10.1 @trench2013elementary |
+| [Existence and Uniqueness \& Direction Fields and Phase Portraits](lecture-notes/existence-and-uniqueness-and-direction-fields-and-phase-portraits.pdf) | Ch. 10.2 @trench2013elementary |
+| [Analyzing Equilibriums of a System of 1st-Order ODEs](lecture-notes/analyzing-equilibriums-of-a-system-of-1st-order-odes.pdf) | Ch. 10.3 @trench2013elementary |
 | Eigenvalues and Eigenvectors for Homogeneous Linear Systems | - |
 | Stability Analysis by Linearization | - |
 | Bifurcations in Two Dimensions | - |
