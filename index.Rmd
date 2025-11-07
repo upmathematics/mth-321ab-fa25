@@ -214,17 +214,17 @@ The following learning objectives are designed to build on one another, with som
 |  | W 10/22 | _Review_ |
 |  | F 10/24 | Eigenvalues and Eigenvectors for Homogeneous Linear Systems |
 | **10** | M 10/27 | Stability Analysis by Linearization |
-|  | W 10/29 | Bifurcations in Two Dimensions & Applications of 2nd-Order ODEs and System of 1st-Order ODEs |
+|  | W 10/29 | Applications of 2nd-Order ODEs and System of 1st-Order ODEs |
 |  | Tu 10/28 to F 10/31 | **Exam 2** (No Class Session on F 10/31) |
-| **11** | M 11/3 | Distinct and Repeated Eigenvalues |
-|  | W 11/5 | Complex Eigenvalues |
-|  | F 11/7 | Variation of Parameters for Nonhomogeneous Linear Systems |
-| **12** | M 11/10 | Higher-Order ODEs |
-|  | W 11/12 | Linear System of ODEs in Higher Dimensions |
+| **11** | M 11/3 | Distinct Eigenvalues |
+|  | W 11/5 | Repeated Eigenvalues |
+|  | F 11/7 | Complex Eigenvalues |
+| **12** | M 11/10 | Variation of Parameters for Nonhomogeneous Linear Systems |
+|  | W 11/12 | Bifurcations in Two Dimensions |
 |  | F 11/14 | _Review_  |
-| **13** | M 11/17 | Laplace Transforms |
-|  | W 11/19 | Inverse Laplace Transforms |
-|  | F 11/21 | Linear ODE solutions using Laplace Transforms |
+| **13** | M 11/17 | Laplace and Inverse Laplace Transforms |
+|  | W 11/19 | Laplace Transforms for Homogeneous Linear ODEs |
+|  | F 11/21 | Laplace Transforms for Nonhomogeneous Linear ODEs |
 | **14** | M 11/24 | Series Solutions |
 |  | M 11/24 to W 11/26 | **Exam 3** (No Class Session on W 11/26) |
 |  | F 11/28 | _Thanksgiving Vacation_ |
@@ -581,16 +581,15 @@ The "Read" column in the table below contains page numbers (Pg.) or chapters (ch
 | [Analyzing Equilibriums of a System of 1st-Order ODEs](lecture-notes/analyzing-equilibriums-of-a-system-of-1st-order-odes.pdf) | Ch. 10.3 @trench2013elementary |
 | Eigenvalues and Eigenvectors for Homogeneous Linear Systems | - |
 | Stability Analysis by Linearization | - |
-| Bifurcations in Two Dimensions | - |
 | Applications of 2nd-Order ODEs and System of 1st-Order ODEs | Ch. 6.1-6.3 @trench2013elementary |
-| Distinct and Repeated Eigenvalues | Ch. 10.4-10.5 @trench2013elementary |
+| Distinct Eigenvalues | Ch. 10.4 @trench2013elementary |
+| Repeated Eigenvalues | Ch. 10.5 @trench2013elementary |
 | Complex Eigenvalues | Ch. 10.6 @trench2013elementary |
 | Variation of Parameters for Nonhomogeneous Linear Systems | Ch. 10.7 @trench2013elementary |
-| Higher-Order ODEs | Ch. 9.1 @trench2013elementary |
-| Linear System of ODEs in Higher Dimensions | Ch. 9.2 @trench2013elementary |
-| Laplace Transforms | Ch 8.1 @trench2013elementary |
-| Inverse Laplace Transforms | Ch. 8.2 \& Ch. 8.6 @trench2013elementary |
-| Linear ODE solutions using Laplace Transforms | Ch. 8.3-8.5 @trench2013elementary |
+| Bifurcations in Two Dimensions | - |
+| Laplace and Inverse Laplace Transforms | Ch. 8.1-8.2 \& Ch. 8.6 @trench2013elementary |
+| Laplace Transforms for Homogeneous Linear ODEs | Ch. 8.3 @trench2013elementary |
+| Laplace Transforms for Nonhomogeneous Linear ODEs | Ch. 8.4-8.5 @trench2013elementary |
 | Series Solutions | Ch. 7.1-7.3 @trench2013elementary |
 | Non-Linear Dynamics | - |
 | Runge-Kutta Method | Ch. 3.2-3.3 @trench2013elementary |

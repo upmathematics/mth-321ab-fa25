@@ -60,7 +60,7 @@ SlopeField <- function(FUN,params=c(),
 # Vector field / phase portrait for system of two odes
 PhasePortrait <- function(FUN,params=c(),
                           xlim=c(-1,1),ylim=c(-1,1),res=10,
-                          scale=0.10,radius=0.5,unit=FALSE,
+                          scale=0.10,radius=0.5,unit=FALSE,axis=TRUE,
                           col="black",xlab="x",ylab="y",title=""){
   
   # variables
@@ -101,13 +101,23 @@ PhasePortrait <- function(FUN,params=c(),
            ))
   
   # draw slope field
-  ggplot(data=ode_points) +
-    geom_hline(yintercept=0, color="darkgray") + 
-    geom_vline(xintercept=0, color="darkgray") +
+  p <- ggplot(data=ode_points)
+  
+  if (axis == TRUE){
+    p <- p + 
+      geom_hline(yintercept=0, color="darkgray") + 
+      geom_vline(xintercept=0, color="darkgray")
+  } else if (axis == FALSE){
+    p <- p
+  }
+  
+  p <- p + 
     geom_segment(aes(x=x_0, y=y_0, xend=x_1, yend=y_1),
                  color=col,
                  arrow = arrow(length = unit(scale*radius, "inches"))) + 
     labs(x=xlab,y=ylab)+
     ggtitle(title) +
     theme_minimal()
+  
+  p
 }
