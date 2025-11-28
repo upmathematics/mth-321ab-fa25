@@ -221,7 +221,7 @@ The following learning objectives are designed to build on one another, with som
 |  | F 11/7 | Complex Eigenvalues |
 | **12** | M 11/10 | Variation of Parameters for Nonhomogeneous Linear Systems |
 |  | W 11/12 | Bifurcations in Two Dimensions |
-|  | F 11/14 | _Review_  |
+|  | F 11/14 | _Review_ |
 | **13** | M 11/17 | Laplace and Inverse Laplace Transforms |
 |  | W 11/19 | Laplace Transforms for Homogeneous Linear ODEs |
 |  | F 11/21 | Laplace Transforms for Nonhomogeneous Linear ODEs |
@@ -312,19 +312,29 @@ Note that these are categorical marks (not numerical scores).
 
 | **Assignment** | **Rank** | **Mark** | **A** | **B** | **C** | **D** |
 |:----------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| **Exams** | 1 | O | 90% | - | - | - |
-|  |  | E | - | 80% | - | - |
-|  |  | A | - | - | 70% | - |
-|  |  | NI | - | - | - | 60% |
-| **Homeworks** | 2 | O | 100% | - | - | - |
-|  |  | E | - | 90% | - | - |
-|  |  | A | - | - | 80% | - |
-|  |  | NI | - | - | - | 70% |
-| **Worksheets** | 3 | Completed | 90% | 80% | 70% | 60% |
+| **Exams** | 1 | O | $\frac{3}{4}$ | - | - | - |
+|  |  | E | - | $\frac{3}{4}$ | - | - |
+|  |  | A | - | - | $\frac{2}{4}$ | - |
+|  |  | NI | - | - | - | $\frac{2}{4}$ |
+| **Homeworks** | 2 | O | $\frac{5}{5}$ | - | - | - |
+|  |  | E | - | $\frac{4}{5}$ | - | - |
+|  |  | A | - | - | $\frac{4}{5}$ | - |
+|  |  | NI | - | - | - | $\frac{3}{5}$ |
+| **Worksheets** | 3 | Completed | $\frac{33}{37}$ | $\frac{29}{37}$ | $\frac{25}{37}$ | $\frac{22}{37}$ |
 
-The above table shows the percent of given assignments. These percentages are minimum requirements for each letter grade. The rank determines the importance of each assignment where 1 means the highest rank and 3 means lowest rank.
+The above table shows the fraction of given assignments. These fractions are minimum requirements for each letter grade.
 
-> If you need more assistance on understanding your overall standing in this course, I encourage you to communicate with me directly.
+The ranking indicates the relative importance of each assignment: Rank 1 is the most important, and Rank 3 is the least. If the mark distribution across assignments varies for you, this ranking will be used to determine your final grade. There will also be optional assignments that you may complete to contribute additional credit within each category.
+
+> Each of you will receive an individual assignment marksheet in the middle of the semester to help you track your progress and current standing in the course. If you need more assistance on understanding your overall standing in this course, I encourage you to communicate with me directly.
+
+*Amendment 4:* The final course grade percentages are converted into fractions to reflect the number of given assignments in each category.
+
+*Amendment 5: * The sentences "The above table shows the percent of given assignments. These percentages are minimum requirements for each letter grade." was rewritten to "The above table shows the fraction of given assignments. These fractions are minimum requirements for each letter grade."
+
+*Amendment 6: * Added the sentence "Each of you will receive an individual assignment marksheet in the middle of the semester to help you track your progress and current standing in the course." in the highlighted section.
+
+*Amendment 7: * The sentence "The rank determines the importance of each assignment where 1 means the highest rank and 3 means lowest rank." was changed to "The ranking indicates the relative importance of each assignment: Rank 1 is the most important, and Rank 3 is the least. If the mark distribution across assignments varies for you, this ranking will be used to determine your final grade. There will also be optional assignments that you may complete to contribute additional credit within each category."
 
 <br>
 
