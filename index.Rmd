@@ -324,7 +324,7 @@ Note that these are categorical marks (not numerical scores).
 
 The above table shows the fraction of given assignments. These fractions are minimum requirements for each letter grade.
 
-The ranking indicates the relative importance of each assignment: Rank 1 is the most important, and Rank 3 is the least. If the mark distribution across assignments varies for you, this ranking will be used to determine your final grade. There will also be optional assignments that you may complete to contribute additional credit within each category.
+The ranking indicates the relative importance of each assignment: Rank 1 is the most important, and Rank 3 is the least. If the mark distribution across assignments varies for you, this ranking will be used to determine your final grade. There will also be optional assignments that you may complete to contribute additional credit within each assignment category.
 
 > Each of you will receive an individual assignment marksheet in the middle of the semester to help you track your progress and current standing in the course. If you need more assistance on understanding your overall standing in this course, I encourage you to communicate with me directly.
 
@@ -334,7 +334,7 @@ The ranking indicates the relative importance of each assignment: Rank 1 is the 
 
 *Amendment 6: * Added the sentence "Each of you will receive an individual assignment marksheet in the middle of the semester to help you track your progress and current standing in the course." in the highlighted section.
 
-*Amendment 7: * The sentence "The rank determines the importance of each assignment where 1 means the highest rank and 3 means lowest rank." was changed to "The ranking indicates the relative importance of each assignment: Rank 1 is the most important, and Rank 3 is the least. If the mark distribution across assignments varies for you, this ranking will be used to determine your final grade. There will also be optional assignments that you may complete to contribute additional credit within each category."
+*Amendment 7: * The sentence "The rank determines the importance of each assignment where 1 means the highest rank and 3 means lowest rank." was changed to "The ranking indicates the relative importance of each assignment: Rank 1 is the most important, and Rank 3 is the least. If the mark distribution across assignments varies for you, this ranking will be used to determine your final grade. There will also be optional assignments that you may complete to contribute additional credit within each assignment category."
 
 <br>
 
