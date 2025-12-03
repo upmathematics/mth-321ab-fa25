@@ -320,7 +320,7 @@ Note that these are categorical marks (not numerical scores).
 |  |  | E | - | $\frac{4}{5}$ | - | - |
 |  |  | A | - | - | $\frac{4}{5}$ | - |
 |  |  | NI | - | - | - | $\frac{3}{5}$ |
-| **Worksheets** | 3 | Completed | $\frac{33}{37}$ | $\frac{29}{37}$ | $\frac{25}{37}$ | $\frac{22}{37}$ |
+| **Worksheets** | 3 | Completed | $\frac{27}{30}$ | $\frac{24}{30}$ | $\frac{21}{30}$ | $\frac{18}{30}$ |
 
 The above table shows the fraction of given assignments. These fractions are minimum requirements for each letter grade.
 
